@@ -13,6 +13,8 @@ Objetivo Específico
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/93734334/153768295-3324c0cd-e75c-4621-8627-292a2053c91b.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4. VIDEO
