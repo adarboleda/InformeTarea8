@@ -85,10 +85,43 @@ Itot = √(IR)^2 + (Ic)^2 < tan^-1 (Ic/IR)
 Itot = √(147)^2 + (111)^2 < tan^-1 (111/147)                                                                                                                                     
 **Itot = 184 < 37.1° mA**
 
-45. Para el circuito de la figura 15-97, determine lo siguiente:
+45. Para el circuito de la figura 15-97, determine lo siguiente:                                 
 (a) Z (b) IR (c) IC(tot) (d) Itot (e) θ
 
 ![image](https://user-images.githubusercontent.com/93734334/153955663-df6cf923-fd99-4b3f-90ee-b9a283044ddd.png)
+
+(a)
+
+Z = (10)(8.75)/(√(10)^2 + (8.75)^2) < -tan^-1 (10/8.75)
+
+**Z = 6.59 < -48.8° ohm**
+
+(b)
+
+IR = Vs/R                                                                                                                                                                         
+IR = 0.1 < 0° / 10 < 0°                                                                                                                                                           
+**IR = 10 < 0° mA**
+
+(c)
+
+1/Xct = 1/21 + 1/5
+Xc = 8.75
+
+Ic = Vs/Xc                                                                                                                                                                       
+Ic = 0.1 < 0° / 8.75 < -90°                                                                                                                                                        
+**Ic = 11,4 < 90° mA**
+
+(d)
+
+Itot = √(IR)^2 + (Ic)^2 < tan^-1 (Ic/IR)                                                                                                                                         
+Itot = √(10)^2 + (11.4)^2 < tan^-1 (10/11.4)                                                                                                                                     
+**Itot = 15.2 < 48.8° mA**
+
+(e)
+
+θ = tan^-1(Ic/IR)
+θ = tan^-1(11.4/10)
+**θ = 48.8° mA**
 
 47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie
 
