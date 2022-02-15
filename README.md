@@ -127,40 +127,40 @@ Itot = √(10)^2 + (11.4)^2 < tan^-1 (10/11.4)
 
 ![image](https://user-images.githubusercontent.com/93734334/153955866-fe237813-a0df-40f0-a0bf-3f024da80add.png)
 
-Rt = 10+12
+Rt = 10+12                                                                                                                                                                       
 Rt = 22 kohm
 
-1/Ct = 1/100 + 1/47
+1/Ct = 1/100 + 1/47                                                                                                                                                               
 Ct = 31.97 pF
 
 Xc = 1/((2pi)(f)(C))                                                                                                                                                             
 Xc = 1/((2pi)(100000)(31.97x10^-12))                                                                                                                                                   
 Xc = 49.783 kohm
-
-G = 1/22 Komh
+  
+G = 1/22 Komh                                                                                                                                                                     
 G = 0.045 uS
 
-Bc = 1/49.783
+Bc = 1/49.783                                                                                                                                                                     
 Bc = 0.02 uS
 
-Y = √(G)^2 + (Bc)^2 < tan^-1 (Bc/G)
-Y = √(0.045)^2 + (0.02)^2 < tan^-1 (0.02/0.045)
+Y = √(G)^2 + (Bc)^2 < tan^-1 (Bc/G)                                                                                                                                               
+Y = √(0.045)^2 + (0.02)^2 < tan^-1 (0.02/0.045)                                                                                                                                   
 Y = 0.049 < 23.96° uS
 
-Ztot = 1/Y
-Ztot = 1/0.049 < 23.96° 
+Ztot = 1/Y                                                                                                                                                                       
+Ztot = 1/0.049 < 23.96°                                                                                                                                                           
 Ztot = 20.41 < -23.96° Kohm
 
 Forma rectangular
 
-Ztot = Zcosθ - jZsenθ
-Ztot = 20.41cos(-23.96) -j20.41sen(-23.96)
+Ztot = Zcosθ - jZsenθ                                                                                                                                                             
+Ztot = 20.41cos(-23.96) -j20.41sen(-23.96)                                                                                                                                       
 Ztot = 18.7 kohm - j8.288 kohm
 
 **Req = 18.7 khom**
-
-C = 1/((2pi)(f)(Xc))   
-C = 1/((2pi)(10000)(8288))
+  
+C = 1/((2pi)(f)(Xc))                                                                                                                                                             
+C = 1/((2pi)(10000)(8288))                                                                                                                                                       
 **C = 192 pF**
 
 El resistor de 18.7 kohm en serie con el capacitor de 192 pF
