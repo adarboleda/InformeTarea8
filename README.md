@@ -71,7 +71,19 @@ Z = (1480)(248.68)/(√(1480)^2 + (248.68)^2) < -tan^-1 (1480/248.68)
 
 ![image](https://user-images.githubusercontent.com/93734334/153955381-a686a119-f845-4b66-9dca-8782269765bd.png)
 
+**VC = VR = 10 < 0°**
 
+IR = Vs/R                                                                                                                                                                         
+IR = 10 < 0° / 68 < 0°                                                                                                                                                           
+**IR = 147 < 0° mA**
+
+Ic = Vs/Xc                                                                                                                                                                       
+Ic = 10 < 0° / 90 < -90°                                                                                                                                                        
+**Ic = 111 < 90° mA**
+
+Itot = √(IR)^2 + (Ic)^2 < tan^-1 (Ic/IR)                                                                                                                                         
+Itot = √(147)^2 + (111)^2 < tan^-1 (111/147)                                                                                                                                     
+**Itot = 184 < 37.1° mA**
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 (a) Z (b) IR (c) IC(tot) (d) Itot (e) θ
