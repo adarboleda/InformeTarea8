@@ -278,7 +278,11 @@ Ic = 3.235 < 90° mA
 
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
 
-**SECCIÓN 16–2 Impedancia de circuitos RL en seri**
+**Respuesta**
+
+15kHz
+
+**SECCIÓN 16–2 Impedancia de circuitos RL en serie**
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
