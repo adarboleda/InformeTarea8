@@ -34,6 +34,10 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/153955050-db7b1c12-1e65-4b44-8c36-8bae4c661c10.png)
 
+**Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/153973642-3840e16e-7c4e-420b-9815-111c97a76bc0.png)
+
 **PARTE 2: CIRCUITOS EN PARALELO**                                                                                                                                               
 **SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo**
 
@@ -46,6 +50,26 @@ Objetivo Específico
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
 ![image](https://user-images.githubusercontent.com/93734334/153955381-a686a119-f845-4b66-9dca-8782269765bd.png)
+
+RT = 470+330+680                                                                                                                                                                 
+RT= 1480 ohm
+
+CT = 0.1 + 0.22                                                                                                                                                                   
+CT = 0.32 uF                                                                                                                                                                     
+CT = 3.32x10^-7 F
+
+f = 2 KHz                                                                                                                                                                         
+f = 2000 Hz
+
+Xc = 1/((2pi)(f)(C))                                                                                                                                                             
+Xc = 1/((2pi)(2000)(3.2x10^-7))                                                                                                                                                   
+Xc = 248.68 ohm
+
+Z = (1480)(248.68)/(√(1480)^2 + (248.68)^2) < -tan^-1 (1480/248.68)
+
+**Z = 245 ohm**
+
+**θ = 80.5°**
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 (a) Z (b) IR (c) IC(tot) (d) Itot (e) θ
