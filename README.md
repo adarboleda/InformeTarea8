@@ -45,12 +45,6 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/153955218-6f73c855-59c2-4930-b743-adead1b07752.png)
 
-**SECCIÓN 15–6 Análisis de circuitos RC en paralelo**
-
-43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
-
-![image](https://user-images.githubusercontent.com/93734334/153955381-a686a119-f845-4b66-9dca-8782269765bd.png)
-
 RT = 470+330+680                                                                                                                                                                 
 RT= 1480 ohm
 
@@ -70,6 +64,14 @@ Z = (1480)(248.68)/(√(1480)^2 + (248.68)^2) < -tan^-1 (1480/248.68)
 **Z = 245 ohm**
 
 **θ = 80.5°**
+
+**SECCIÓN 15–6 Análisis de circuitos RC en paralelo**
+
+43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+
+![image](https://user-images.githubusercontent.com/93734334/153955381-a686a119-f845-4b66-9dca-8782269765bd.png)
+
+
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 (a) Z (b) IR (c) IC(tot) (d) Itot (e) θ
