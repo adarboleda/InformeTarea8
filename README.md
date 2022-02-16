@@ -358,6 +358,19 @@ Z = √(12)^2 + (251.3)^2 < tan^-1 (251.3/12)
 
 ![image](https://user-images.githubusercontent.com/93734334/153957921-1e7c3d96-99a6-46a6-967d-10c83e5f3d63.png)
 
+1/Leq = 1/5 + 1/8.2
+Leq = 3.1 mH
+
+1/Req = 1/1000 + 1/910
+Req = 476.4 ohm
+RT = 476.64 +330
+**RT = 806 ohm**
+
+1000 uH = 1mH
+
+LT = 3.1 + 1
+**LT = 4.1 mH**
+
 4. VIDEO
 
 5. CONCLUSIONES
