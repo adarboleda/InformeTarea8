@@ -288,6 +288,24 @@ Ic = 3.235 < 90° mA
 
 ![image](https://user-images.githubusercontent.com/93734334/153957774-7deac3d1-609e-4186-a028-5c2aff44a49e.png)
 
+Z = R + jXL
+
+(a)
+
+**Z = 100 ohm + j50 ohm**
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)                                                                                                                                             
+Z = √(100)^2 + (50)^2 < tan^-1 (50/100)                                                                                                                                     
+**Z = 112 < 26.6° ohm**
+
+(b)
+
+**Z = 1.5 kohm + j1 kohm**
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)                                                                                                                                             
+Z = √(1.5)^2 + (1)^2 < tan^-1 (1/1.5)                                                                                                                                     
+**Z = 1.8 < 33.7° kohm**
+
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 
 (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
