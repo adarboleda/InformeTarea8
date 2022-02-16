@@ -312,6 +312,48 @@ Z = √(1.5)^2 + (1)^2 < tan^-1 (1/1.5)
 
 ![image](https://user-images.githubusercontent.com/93734334/153957852-63069268-f859-4693-9d8a-36ed6a2c5937.png)
 
+XL = 2pifL
+
+(a)
+
+f = 100 Hz
+XL = 2pi(100)(0.02)
+XL = 12.6 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)                                                                                                                                             
+Z = √(12)^2 + (12.57)^2 < tan^-1 (12.57/12)                                                                                                                                     
+**Z = 17.4 < 46.3° ohm**
+
+(b)
+
+f = 500 Hz
+XL = 2pi(500)(0.02)
+XL = 62.8 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)                                                                                                                                             
+Z = √(12)^2 + (62.8)^2 < tan^-1 (62.8/12)                                                                                                                                     
+**Z = 64 < 79.2° ohm**
+
+(c)
+
+f = 1000 Hz
+XL = 2pi(1000)(0.02)
+XL = 125.7 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)                                                                                                                                             
+Z = √(12)^2 + (125.7)^2 < tan^-1 (125.7/12)                                                                                                                                     
+**Z = 126.3 < 84.6° ohm**
+
+(d)
+
+f = 2000 Hz
+XL = 2pi(2000)(0.02)
+XL = 251.3 ohm
+
+Z = √(R)^2 + (XL)^2 < tan^-1 (XL/R)                                                                                                                                             
+Z = √(12)^2 + (251.3)^2 < tan^-1 (251.3/12)                                                                                                                                     
+**Z = 252 < 87.3° ohm**
+
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
 ![image](https://user-images.githubusercontent.com/93734334/153957921-1e7c3d96-99a6-46a6-967d-10c83e5f3d63.png)
