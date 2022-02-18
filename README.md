@@ -964,6 +964,30 @@ Ic = 3.235 < 90° mA
 
 ![image](https://user-images.githubusercontent.com/93734334/153957469-2b462227-f4e1-42df-bf6e-cc23de64bd21.png)
 
+(a)
+ 
+ Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
+ 
+ **Ningun voltaje de salida**
+ 
+ (b)
+ 
+ Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
+ 
+ **320 < -71.3° mV**
+ 
+ (c)
+ 
+ Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
+ 
+ **500 < 0° mV**
+ 
+ (d)
+ 
+ Vsal = (Xc/√(Rth)^2+(Xc)^2) Vth 
+ 
+ **0V**
+ 
 **PARTE 1: CIRCUITOS EN SERIE**                                                                                                                                                   
 **SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie**
 
