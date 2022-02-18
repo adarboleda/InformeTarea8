@@ -1255,7 +1255,7 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 ![image](https://user-images.githubusercontent.com/93733175/154730010-dcbef782-7073-4047-a0d9-f21dab0ebbb2.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730033-acc89904-4344-42a2-980c-cc426f9d71ed.png)
+![image](https://user-images.githubusercontent.com/93733175/154745159-45466825-957e-4178-bf4e-60292ec8815f.png)
 
 SECCIÓN 16–8 Aplicaciones básicas
 
