@@ -1183,7 +1183,13 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729345-c3544f03-5580-4653-9043-f39543b8b0fc.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154729366-78e355ab-f841-4458-b429-26820216d4cb.png)
+![image](https://user-images.githubusercontent.com/93733175/154749285-7ef21724-e4f2-4c79-ae83-ffe28bb3dc40.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154749315-87d5f320-bb14-4723-b117-b1d866ec5cfa.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154749341-fd2204f3-ab96-4ada-a9c4-28952f418284.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154749375-ae1f70a9-43c1-4737-bfef-269345275317.png)
 
 **SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo**
 
@@ -1196,9 +1202,8 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93733175/154729509-60402750-8b35-4fc3-81c3-f6a4af4a1a3c.png)
+
 ![image](https://user-images.githubusercontent.com/93733175/154746075-cd692451-824c-46d2-9bb0-eccb7ef79d6b.png)
-
-
 
 **SECCIÓN 16–5 Análisis de circuitos RL en paralelo**
 
@@ -1206,7 +1211,7 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729551-b302962c-a7b4-4ffc-ae6e-611eabe77764.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154729572-2055e100-a2e4-408c-b876-62108cab1321.png)
+![image](https://user-images.githubusercontent.com/93733175/154749944-8cfb6e1f-1705-4d3a-91bd-7a5dcad4909a.png)
 
 25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
 
@@ -1272,15 +1277,17 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
 
-![image](https://user-images.githubusercontent.com/93733175/154730140-361e889c-444b-410e-b4cb-31af06c8b9cd.png)
+![image](https://user-images.githubusercontent.com/93733175/154750507-0ed7fa55-9fe0-41e2-8b05-4483d6865ed0.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730147-63d66809-6c69-4780-91d2-67aaff5da4fb.png)
+![image](https://user-images.githubusercontent.com/93733175/154750528-3c1a301b-603e-4e8c-92e5-139397f60647.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730201-390104f0-a406-4d19-9a10-5750516ce7f9.png)
+![image](https://user-images.githubusercontent.com/93733175/154750993-e3f71439-655b-4c58-8c55-73bb25de09c3.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730225-7d723454-e2ee-4e04-8d28-0fa92666a77c.png)
+![image](https://user-images.githubusercontent.com/93733175/154751010-509deabc-2727-449d-a3df-86a8adb41f14.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730273-bbaef6da-2ea1-454f-8e78-1adaa7185437.png)
+![image](https://user-images.githubusercontent.com/93733175/154751027-4c575384-5fa2-4822-b271-39e3e887c2b6.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154751375-c8472216-0193-4ad1-a36a-ab3a6b204599.png)
 
 **SECCIÓN 16–9 Localización de fallas**
 
