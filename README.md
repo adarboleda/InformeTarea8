@@ -1069,7 +1069,7 @@ LT = 3.1 + 1
 * En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
 * Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos de la resistencia y la reactancia inductiva.
 * Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo. 
-*La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna. 
+* La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna. 
 
 
 6. BIBLIOGRAFÍA
