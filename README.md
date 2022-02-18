@@ -1191,13 +1191,14 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729402-19b5d3bf-8616-44d0-915b-d48cd52608bb.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154729424-28cab803-6a3f-4184-9be3-a205ec987f6b.png)
+![image](https://user-images.githubusercontent.com/93733175/154745975-6df63658-69f0-44c3-8488-b2c13d3461fa.png)
 
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93733175/154729509-60402750-8b35-4fc3-81c3-f6a4af4a1a3c.png)
+![image](https://user-images.githubusercontent.com/93733175/154746075-cd692451-824c-46d2-9bb0-eccb7ef79d6b.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154729528-deaf57ec-a775-4469-93da-a43dfd35e34d.png)
+
 
 **SECCIÓN 16–5 Análisis de circuitos RL en paralelo**
 
