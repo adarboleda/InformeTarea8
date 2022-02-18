@@ -1111,6 +1111,8 @@ LT = 3.1 + 1
 
 4. VIDEO
 
+https://youtu.be/XI8dpfNEIU8
+
 5. CONCLUSIONES
 
 * En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
