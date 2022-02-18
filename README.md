@@ -1117,9 +1117,9 @@ RT = 476.64 +330
 LT = 3.1 + 1                                                                                                                                                                     
 **LT = 4.1 mH**
 
-CAPITULO 16
+**CAPITULO 16**
 
-SECCIÓN 16–3 Análisis de circuitos RL en serie
+**SECCIÓN 16–3 Análisis de circuitos RL en serie**
 
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
 
@@ -1185,7 +1185,7 @@ Usar la ley de Ohm para obtener el voltaje entre las terminales:
 
 ![image](https://user-images.githubusercontent.com/93733175/154729366-78e355ab-f841-4458-b429-26820216d4cb.png)
 
-SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+**SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo**
 
 19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
 
@@ -1199,7 +1199,7 @@ SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
 ![image](https://user-images.githubusercontent.com/93733175/154729528-deaf57ec-a775-4469-93da-a43dfd35e34d.png)
 
-SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+**SECCIÓN 16–5 Análisis de circuitos RL en paralelo**
 
 23. Determine las siguientes cantidades en la figura 16-65:
 
@@ -1211,9 +1211,9 @@ SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 
 ![image](https://user-images.githubusercontent.com/93733175/154729619-d640f5ca-9b4f-4614-b55c-e6d929c166af.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154729628-b4780d9c-621a-4052-8e4c-b4f505575212.png)
+![image](https://user-images.githubusercontent.com/93733175/154745564-5be742b4-3513-4c22-b725-dfd3920313a2.png)
 
-SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+**SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo**
 
 27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
 
@@ -1243,7 +1243,7 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/93733175/154729906-b39aa177-457d-4732-8275-b1dc3716d11a.png)
 
-SECCIÓN 16–7 Potencia en circuitos RL
+**SECCIÓN 16–7 Potencia en circuitos RL**
 
 37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
 
@@ -1257,7 +1257,7 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 ![image](https://user-images.githubusercontent.com/93733175/154745159-45466825-957e-4178-bf4e-60292ec8815f.png)
 
-SECCIÓN 16–8 Aplicaciones básicas
+**SECCIÓN 16–8 Aplicaciones básicas**
 
 41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
 
@@ -1281,7 +1281,7 @@ SECCIÓN 16–8 Aplicaciones básicas
 
 ![image](https://user-images.githubusercontent.com/93733175/154730273-bbaef6da-2ea1-454f-8e78-1adaa7185437.png)
 
-SECCIÓN 16–9 Localización de fallas
+**SECCIÓN 16–9 Localización de fallas**
 
 45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
 
