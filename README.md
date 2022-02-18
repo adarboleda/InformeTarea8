@@ -1293,13 +1293,13 @@ SECCIÓN 16–9 Localización de fallas
 
 (d) un cortocircuito a través de R2
 
-![image](https://user-images.githubusercontent.com/93733175/154730334-c84259f5-f55f-491d-812c-2b0a3cd6bac3.png)
+![image](https://user-images.githubusercontent.com/93733175/154743841-2fc4e416-9008-4929-8df4-3717df9b2040.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730345-ceb89806-9b73-493b-ad42-a3905a34ff60.png)
+![image](https://user-images.githubusercontent.com/93733175/154743877-98738eeb-0e66-4967-8ca2-c54391ad01e7.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730382-9645365c-39e3-4fb8-bb5f-42e163ad1423.png)
+![image](https://user-images.githubusercontent.com/93733175/154743924-0e5355e8-ffc8-4221-9796-e34eeea90bd9.png)
 
-![image](https://user-images.githubusercontent.com/93733175/154730410-244692cb-063a-4a79-a1fc-ee0c2e4306a2.png)
+![image](https://user-images.githubusercontent.com/93733175/154743964-b6df04be-ba92-4dce-ae32-095437edcdf7.png)
 
 4. VIDEO
 
@@ -1311,6 +1311,8 @@ https://youtu.be/XI8dpfNEIU8
 * Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos de la resistencia y la reactancia inductiva.
 * Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo. 
 * La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna. 
+* En conclusión tenemos que el circuito RL de adelanto es un circuito de desplazamiento de fase en el cual el voltaje de salida aparece adelantado con respecto al voltaje de entrada en una cantidad especificada.
+* El circuito RL de retraso es un circuito de desplazamiento de fase en el cual el voltaje de salida se retrasa con respecto al voltaje de entrada en una cantidad especificada.
 
 6. BIBLIOGRAFÍA
 
