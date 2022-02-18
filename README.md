@@ -713,32 +713,32 @@ Xc=1/2πfC=1/(2*π*1kHz*Cx)
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656822-bc9c1025-5ef7-4252-be26-c96a9d0ac0ff.png)
 
-0 Hz 1 V
-1 kHz 723 mV
-2 kHz 464 mV
-3 kHz 329 mV
-4 kHz 253 mV
-5 kHz 205 mV
-6 kHz 172 mV
-7 kHz 148 mV
-8 kHz 130 mV
-9 kHz 115 mV
+0 Hz 1 V                                                                                                                                                                         
+1 kHz 723 mV                                                                                                                                                                     
+2 kHz 464 mV                                                                                                                                                                     
+3 kHz 329 mV                                                                                                                                                                     
+4 kHz 253 mV                                                                                                                                                                     
+5 kHz 205 mV                                                                                                                                                                     
+6 kHz 172 mV                                                                                                                                                                     
+7 kHz 148 mV                                                                                                                                                                     
+8 kHz 130 mV                                                                                                                                                                     
+9 kHz 115 mV                                                                                                                                                                     
 10 kHz 104 mV
 
 37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
 
 ![imagen](https://user-images.githubusercontent.com/93879569/154656897-34427708-07b5-4fc0-8778-0e42a1d76837.png)
 
-0 Hz 0 V
-1 kHz 5.32 V
-2 kHz 7.82 V
-3 kHz 8.83 V
-4 kHz 9.29 V
-5 kHz 9.53 V
-6 kHz 9.66 V
-7 kHz 9.76 V
-8 kHz 9.80 V
-9 kHz 9.84 V
+0 Hz 0 V                                                                                                                                                                         
+1 kHz 5.32 V                                                                                                                                                                     
+2 kHz 7.82 V                                                                                                                                                                     
+3 kHz 8.83 V                                                                                                                                                                     
+4 kHz 9.29 V                                                                                                                                                                     
+5 kHz 9.53 V                                                                                                                                                                     
+6 kHz 9.66 V                                                                                                                                                                     
+7 kHz 9.76 V                                                                                                                                                                     
+8 kHz 9.80 V                                                                                                                                                                    
+9 kHz 9.84 V                                                                                                                                                                     
 10 kHz 9.87 V
 
 **Capitulo 15**                                                                                                                                                                   
