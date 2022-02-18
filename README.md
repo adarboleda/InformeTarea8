@@ -34,6 +34,14 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/153954140-73f96de4-78d8-4cd1-b59f-319814a40079.png)
 
+![image](https://user-images.githubusercontent.com/93733175/154728519-552d1032-2c8a-4c31-a0b0-41c157a62899.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154728558-5ada72d8-5824-43f1-b601-621d5884bff2.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154728599-2f24cbfd-fd12-41da-ae39-8fcf0183416f.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154728659-11215768-73d2-4967-8938-5ad34b20d62e.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **PARTE 1: CIRCUITOS EN SERIE**
 **SECCIÓN 15–1 El sistema de los números complejos**
@@ -1109,6 +1117,190 @@ RT = 476.64 +330
 LT = 3.1 + 1                                                                                                                                                                     
 **LT = 4.1 mH**
 
+CAPITULO 16
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/93733175/154728807-bc303ff3-7058-402c-a320-a4121448a2f6.png)
+
+La magnitud de la reactancia inductiva es:
+
+![image](https://user-images.githubusercontent.com/93733175/154728848-353aa71f-32de-4d64-847c-0d93e446f89c.png)
+
+La impedancia de la rama en forma rectangular es:
+
+![image](https://user-images.githubusercontent.com/93733175/154728875-bf6db355-ebb5-463d-aa1d-9723817aac2f.png)
+
+La impedancia en forma polar:
+
+![image](https://user-images.githubusercontent.com/93733175/154728923-6555d442-d3d1-45a6-8e75-3fbe07e62340.png)
+
+Calcular cada corriente de rama:
+
+![image](https://user-images.githubusercontent.com/93733175/154728971-9352f61a-e621-4d9d-8540-f28dadcbb92f.png)
+
+Usar la ley de Ohm para obtener el voltaje entre las terminales:
+
+![image](https://user-images.githubusercontent.com/93733175/154729015-54ceeb04-6214-4c3f-80b5-85080a04c86e.png)
+
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/93733175/154729062-310d4280-05a8-4a90-9a0e-7e0d8d49fb6c.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729090-35c5a184-053b-4776-8ee2-fde09139547e.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729119-0261d190-8f05-4daa-aedf-1b3840937655.png)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
+
+![image](https://user-images.githubusercontent.com/93733175/154729150-f862b07b-7d74-4521-af82-ec628fa2bc73.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729191-3250c226-d733-456e-ba77-6b86746b1b23.png)
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+(a) 60 Hz 
+
+(b) 200 Hz 
+
+(c) 500 Hz 
+
+(d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93733175/154729264-526edcd5-9e35-4aca-a083-37412fa02034.png)
+
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz 
+
+(b) 100 Hz 
+
+(c) 1 kHz 
+
+(d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/93733175/154729345-c3544f03-5580-4653-9043-f39543b8b0fc.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729366-78e355ab-f841-4458-b429-26820216d4cb.png)
+
+SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93733175/154729402-19b5d3bf-8616-44d0-915b-d48cd52608bb.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729424-28cab803-6a3f-4184-9be3-a205ec987f6b.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93733175/154729509-60402750-8b35-4fc3-81c3-f6a4af4a1a3c.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729528-deaf57ec-a775-4469-93da-a43dfd35e34d.png)
+
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/93733175/154729551-b302962c-a7b4-4ffc-ae6e-611eabe77764.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729572-2055e100-a2e4-408c-b876-62108cab1321.png)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/93733175/154729619-d640f5ca-9b4f-4614-b55c-e6d929c166af.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729628-b4780d9c-621a-4052-8e4c-b4f505575212.png)
+
+SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/93733175/154729680-98fc49f9-5c3a-48da-a025-6fcfb29fc88b.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729692-b1a00dd2-2e55-4aef-af11-91ac152799f1.png)
+
+29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+
+![image](https://user-images.githubusercontent.com/93733175/154729722-f827ff09-e61f-4718-a771-e7850b3ca1a8.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729745-bc94680c-00e1-49e6-98b5-812cabb8321e.png)
+
+31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/93733175/154729796-a5cbbe30-efdf-484c-9191-01c68b71be0b.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729814-f0b74025-e3ac-4d7d-bc76-e2096f2a1223.png)
+
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/93733175/154729848-04298644-294f-4871-b336-ba0e496deaeb.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729874-57ae635b-4c2a-43f2-8f54-f2abd84b63d0.png)
+
+35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/93733175/154729906-b39aa177-457d-4732-8275-b1dc3716d11a.png)
+
+SECCIÓN 16–7 Potencia en circuitos RL
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/93733175/154729960-5bdfb161-a9d1-47fd-93e2-458e093b4cf3.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154729985-737c2035-cf34-4c91-b030-891d7da3d5f8.png)
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/93733175/154730010-dcbef782-7073-4047-a0d9-f21dab0ebbb2.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730033-acc89904-4344-42a2-980c-cc426f9d71ed.png)
+
+SECCIÓN 16–8 Aplicaciones básicas
+
+41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+![image](https://user-images.githubusercontent.com/93733175/154730062-dd9f9705-f2e0-41c0-b05a-3bf21e57c7fd.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730072-f79db488-0a29-4c4e-9739-cef93f8fbdf4.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730084-f5fca6b8-9931-4018-8ed2-5199c9530f6a.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730100-e7077a90-3ad9-4e75-8262-883637a606e0.png)
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+![image](https://user-images.githubusercontent.com/93733175/154730140-361e889c-444b-410e-b4cb-31af06c8b9cd.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730147-63d66809-6c69-4780-91d2-67aaff5da4fb.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730201-390104f0-a406-4d19-9a10-5750516ce7f9.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730225-7d723454-e2ee-4e04-8d28-0fa92666a77c.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730273-bbaef6da-2ea1-454f-8e78-1adaa7185437.png)
+
+SECCIÓN 16–9 Localización de fallas
+
+45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
+(a) L1 abierto
+
+(b) L2 abierto 
+
+(c) R1 abierto
+
+(d) un cortocircuito a través de R2
+
+![image](https://user-images.githubusercontent.com/93733175/154730334-c84259f5-f55f-491d-812c-2b0a3cd6bac3.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730345-ceb89806-9b73-493b-ad42-a3905a34ff60.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730382-9645365c-39e3-4fb8-bb5f-42e163ad1423.png)
+
+![image](https://user-images.githubusercontent.com/93733175/154730410-244692cb-063a-4a79-a1fc-ee0c2e4306a2.png)
+
 4. VIDEO
 
 https://youtu.be/XI8dpfNEIU8
@@ -1119,7 +1311,6 @@ https://youtu.be/XI8dpfNEIU8
 * Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos de la resistencia y la reactancia inductiva.
 * Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo. 
 * La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna. 
-
 
 6. BIBLIOGRAFÍA
 
